@@ -135,23 +135,12 @@ An Edge AI-powered predictive maintenance system that continuously monitors the 
 Motor-Anomaly-Detection-ESP32/
 │
 ├── README.md
-├── LICENSE
-├── .gitignore
-├── requirements.md
-│
-├── assets/
-│   ├── architecture.png
-│   ├── dashboard.png
-│   └── node-red-flow.png
-│
 ├── Firmware/
-│   ├── ESP32_AI_Monitor.ino
-│   ├── model_data.h
-│   └── libraries_used.txt
+│   ├── ESP32_AI_Monitor.ino  
 │
 ├── Node-RED/
 │   ├── flow.json
-│   ├── node-red-flow.png
+│   ├── node-red.png
 │   └── README.md
 │
 └── Grafana/
@@ -264,27 +253,7 @@ A higher reconstruction error indicates abnormal motor behavior.
 
 ---
 
-## Requirements
 
-See **requirements.md** for the required software, libraries, and hardware.
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## Author
-
-**Mitanshu Dhameliya**
-
-Bachelor of Engineering (Electronics & Communication Engineering)
-
-Nirma University
-
----
 
 ## Acknowledgements
 
