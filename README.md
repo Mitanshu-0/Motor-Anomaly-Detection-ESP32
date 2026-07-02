@@ -255,6 +255,3 @@ A higher reconstruction error indicates abnormal motor behavior.
 
 
 
-## Acknowledgements
-
-This project was developed as part of the Bachelor's Final Year Project and demonstrates the integration of **Embedded Systems**, **TinyML**, **Industrial IoT**, and **Edge AI** for predictive maintenance of rotating machinery.
